@@ -4,6 +4,9 @@
 ```
 Karena saya pakai google collab
 JALANKAN SECARA URUT
+
+pip install -q streamlit
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 ```
 
 ## Run steamlit app
